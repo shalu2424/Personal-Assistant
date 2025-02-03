@@ -1,1 +1,1 @@
-api_data = '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'
+api_data = 'sk-ijR0bnjP9hsy0A'
